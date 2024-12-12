@@ -1,0 +1,25 @@
+{
+  "name": "printimg",
+  "version": "1.0.0",
+  "description": "print your image in your terminal by console.log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenyding/printImg.git"
+  },
+  "keywords": [
+    "image",
+    "print",
+    "console.log",
+    "terminal"
+  ],
+  "author": "细粒丁",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tenyding/printImg/issues"
+  },
+  "homepage": "https://github.com/tenyding/printImg#readme"
+}
